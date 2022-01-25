@@ -2,3 +2,5 @@ results/
 .idea/
 env.md
 tl2_lib/
+datasets/pretrained/
+
